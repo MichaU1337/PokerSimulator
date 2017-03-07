@@ -1,3 +1,3 @@
-# PokerSimulator
+# PokerSimulator UNDER CONSTRUCTION!
 
-My attempt to create HeadsUp Texas Holdem simulator.
+My attempt to create HeadsUp Texas Holdem simulator. 
